@@ -1,10 +1,10 @@
-# Vetcare_API
+# 🩺 Vetcare_API
 
-##  Sobre o projeto
+## 💻 Sobre o projeto
 
 A Vetcare é uma clínica veterinária que atende múltiplos tipos de pets, e com veterinários de várias especialidades diferentes. Desenvolvido com Java e Spring Boot.
 
-##  Tecnologias usadas
+## 🔧 Tecnologias usadas
 
 - Java 17
 - Spring Boot 3
@@ -23,7 +23,7 @@ A Vetcare é uma clínica veterinária que atende múltiplos tipos de pets, e co
 Desenvolvido na IntelliJ IDEA.
 Durante a fase inicial do projeto também foi utilizado um bando de dados em memória, o H2 Database.
 
-##  Funcionalidades
+## ⚙ Funcionalidades
 
 Operações CRUD para cadastro, listagem, detalhamento, atualização e listagem de veterinários, tutores e pets.
 
@@ -35,7 +35,7 @@ Este projeto ainda não está em sua versão final, futuramente também será ad
 
 A aplicação foi devidamente testada usando JUnit e documentada com o Swagger.
 
-## Conclusão
+## 🎇 Conclusão
 
 A Vetcare foi idealizado e feito para o Bootcamp da DIO de Java back-end, como o projeto final para a conclusão do mesmo.
 Um agradecimento especial aos instrutores Venilton Júnior, Pamela Borges, Camila Cavalvante, Gleyson Sampaio e Elidiana Andrade, que foram os que me guiaram até aqui.
